@@ -1,5 +1,5 @@
 # GUI说明
-本项目基于B站YY鼠鼠的[使用Kata为日语EPUB文件中的汉字注音（注假名）](https://www.bilibili.com/read/cv28891933/?spm_id_from=333.999.0.0)，用Tkinter添加了一个方便操作的GUI，并且修复了一些导致无法使用的bug。
+本项目基于B站[YY鼠鼠](https://space.bilibili.com/33888058?spm_id_from=333.976.0.0)的[使用Kata为日语EPUB文件中的汉字注音（注假名）](https://www.bilibili.com/read/cv28891933/?spm_id_from=333.999.0.0)，用Tkinter添加了一个方便操作的GUI，并且修复了一些导致无法使用的bug。
 <br>
 </br>
 对原版修复的BUG与修改：
