@@ -17,6 +17,9 @@
 转换效果
 ![转换效果](/result.png)
 
+# 软件截图
+![软件截图](/screenshot.png)
+
 # 安装
 [下载地址](https://github.com/rxing365/Kata-GUI/releases/tag/main)
 
