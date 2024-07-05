@@ -23,6 +23,12 @@
 # 安装
 [下载地址](https://github.com/rxing365/Kata-GUI/releases/tag/main)
 
+# 注意
+<ul>
+  <li>因为对目录的处理方式不同，下载时Windows系统请选择Windows压缩包，MacOS，Linux等系统请选择source压缩包。</li>
+  <li>本项目内部使用pykakasi注音，不保证对多音字的注音100%准确。</li>
+</ul>
+
 # 以下是原项目的README
 <br>
 </br>
